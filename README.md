@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/xOATr8vcb9IAAAAi/superfighters-sfd.gif" width="100"/>
   <div id="badges">
   <h1>
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=AFE3F7&width=500&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Aleksey)
+[Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=AFE3F7&width=500&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Aleksey)
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -17,8 +17,6 @@
 <a href="https://t.me/Gray_WH">
   <img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
-  ![](https://komarev.com/ghpvc/?username=Whynot46)
-  ![](https://img.shields.io/github/followers/Whynot46?label=Followers&style=social)
 </div>
 
 ---
@@ -48,6 +46,4 @@ I am a Python Junior Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
   ## Statistics
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whynot46&langs_count=8&layout=compact&theme=nord&hide_border=true" />
-<br>
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Whynot46&show_icons=true&theme=nord&hide_border=true" />
-<br>
