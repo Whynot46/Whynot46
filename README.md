@@ -22,10 +22,10 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Python Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Astrakhan, Russia.
+- : I am a Python Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Astrakhan, Russia.
 - :telescope: I work as a system administrator, automating internal processes, developing computer vision systems and desktop interfaces.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I want to learn!
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
