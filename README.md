@@ -45,5 +45,5 @@
 </div>
 
   ## Statistics
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whynot46&langs_count=8&layout=compact&theme=nord&hide_border=true" />
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Whynot46&show_icons=true&theme=nord&hide_border=true" />
+<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whynot46&langs_count=8&layout=compact&theme=nord&hide_border=true" />
+<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Whynot46&show_icons=true&theme=nord&hide_border=true" />
