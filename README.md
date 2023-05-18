@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/xOATr8vcb9IAAAAi/superfighters-sfd.gif" width="100"/>
-  Hello there
   <div id="badges">
   <h1>
+    Hello there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
