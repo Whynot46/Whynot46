@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/xOATr8vcb9IAAAAi/superfighters-sfd.gif" width="100"/>
+  <p>Hello there</p>
   <div id="badges">
   <h1>
-[Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=AFE3F7&width=500&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Aleksey)
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
