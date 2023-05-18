@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/xOATr8vcb9IAAAAi/superfighters-sfd.gif" width="100"/>
   <div id="badges">
   <h1>
-    Hello there
+    Hello there, I`m Aleksey
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -22,7 +22,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- : I am a Python Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Astrakhan, Russia.
+- I am a Python Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Astrakhan, Russia.
 - :telescope: I work as a system administrator, automating internal processes, developing computer vision systems and desktop interfaces.
 
 - :seedling: I want to learn!
