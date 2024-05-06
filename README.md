@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/xOATr8vcb9IAAAAi/superfighters-sfd.gif" width="100"/>
   <div id="badges">
   <h1>
-    Hello there, I`m Aleksey
+    Привет, меня зовут Алексей
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -16,13 +16,21 @@
 </div>
 
 ### :woman_technologist: About Me :
-- I am a Python Junior++ Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Astrakhan, Russia.
-- :telescope: I work as a system administrator, automating internal processes and developing computer vision systems and desktop interfaces.
+- Python Junior++ разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- Студент 2-курса направления "Суперкомпьютерные технологии и анализ больших данных"
+- В разные промежутки времени я совмещал работу инженера-исследователя в области компьютерного зрения, project-менеджера, преподавателя языка Python для 9-11 классов, разработчика telegtram-ботов, системного администратора.
+- В каждой своей работе я старался автоматизировать свои задачи, чтобы больше времени уходило на учёбу в ВУЗе :telescope: 
+- Люблю брать нестандартные задачи :seedling:
 
-- :seedling: I want to learn!
 
-
-
+### :hammer_and_wrench: Python libraries and frameworks :
+<table>
+<tr><th>ML/CV</th><th>Интерфейсы</th><th>Web (Telegram)</th><th>Вспомогательные</th><th>Работа с данными</th><th>БД</th></tr> 
+<tr><th>OpenCV</th><th>Kivy (KivyMD, Kivy-garden)</th><th>FastAPI</th><th>Threading</th><th>Pandas</th><th>SQLite3</th></tr>
+<tr><th>Ultralytics</th><th>Tkinter (custom tkinter)</th><th>NiceGUI</th><th>Asyncio</th><th>NumPy</th><th>Google API</th></tr> 
+<tr><th>Keras</th><th>Dashboard</th><th>Aiogram</th><th>Os</th><th>Json</th><th>openpyexcel</th></tr> 
+<tr><th>Tensorflow</th><th>PyWebIO</th><th>PyTelegramBotAPI</th><th>Re</th><th>Matplotlib</th><th></th></tr> 
+</table>
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -30,31 +38,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="60" height="60"/>&nbsp;
-  <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="Open-CV" alt="Open-CV" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="60" height="60"/>&nbsp;
-  
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp;
-
 </div>
 
 
-<h3 align="center">🔥   Моя статистика :</h3>
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+<h3 align="center">🔥   My statistics :</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Whynot46&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
