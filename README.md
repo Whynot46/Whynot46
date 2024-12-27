@@ -24,10 +24,10 @@ Python Junior++ разработчик <img src="https://media.giphy.com/media/W
 <h2 align="center">🛠️ Python libraries and frameworks</h2>
 <table>
 <tr><th>ML/CV</th><th>Интерфейсы</th><th>Web (Telegram)</th><th>Вспомогательные</th><th>Работа с данными</th><th>БД</th></tr> 
-<tr><th>OpenCV</th><th>Kivy (KivyMD, Kivy-garden)</th><th>FastAPI</th><th>Threading</th><th>Pandas</th><th>SQLite3</th></tr>
-<tr><th>Ultralytics</th><th>Tkinter (custom tkinter)</th><th>NiceGUI</th><th>Asyncio</th><th>NumPy</th><th>Google API</th></tr> 
-<tr><th>Keras</th><th>Dashboard</th><th>Aiogram</th><th>Os</th><th>Json</th><th>openpyexcel</th></tr> 
-<tr><th>Tensorflow</th><th>PyWebIO</th><th>PyTelegramBotAPI</th><th>Re</th><th>Matplotlib</th><th></th></tr> 
+<tr><th>OpenCV</th><th>Kivy (KivyMD, Kivy-garden)</th><th>FastAPI</th><th>Threading</th><th>Pandas</th><th>PostgreSQL</th></tr>
+<tr><th>Ultralytics</th><th>Tkinter (custom tkinter)</th><th>Spring Boot</th><th>Asyncio</th><th>NumPy</th><th>Google API</th></tr> 
+<tr><th>Keras</th><th>Dashboard</th><th>Aiogram</th><th>Os</th><th>Json</th><th>SQLite</th></tr> 
+<tr><th>Tensorflow</th><th>PyWebIO</th><th>PyTelegramBotAPI</th><th>Re</th><th>Matplotlib</th><th>openpyxl</th></tr> 
 </table>
 
 <h2 align="center">🛠️ Languages and Tools</h2>
