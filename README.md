@@ -1,53 +1,45 @@
-<div align="center">
-  <img src="https://media.tenor.com/xOATr8vcb9IAAAAi/superfighters-sfd.gif" width="100" alt="avatar"/>
-  <h1>
-    Привет, меня зовут Алексей
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="wave"/>
-  </h1>
-  <a href="https://vk.com/whynot_46"><img src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="VK"/></a>
-  <a href="https://t.me/Gray_WH"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"/></a>
-</div>
+# Алексей Пахалев
 
-<h2 align="center">👨‍💻 Обо мне</h2>
-<p align="center">
-Руковожу отделом разработки в Routeam Group. Делаю AI/ML-проекты end-to-end: LLM, мультиагентные системы, RAG, self-hosted инференс на vLLM.<br>
-Основной язык — Python. Раньше занимался компьютерным зрением, разработкой telegram-ботов, преподаванием Python и робототехники, администрированием.<br>
-Автоматизирую всё, что можно автоматизировать. Люблю нестандартные задачи 🌱<br>
-Менторю студентов колледжа: готовлю для них реальные кейсы.
+**AI/ML Engineer · Head of Development, Routeam Group**
+
+Проектирую и довожу до продакшена AI/ML-системы end-to-end: от постановки задачи и данных до инференса и мониторинга. Основной фокус — LLM-приложения, мультиагентные системы, RAG и self-hosted инференс. Ранее — прикладное компьютерное зрение.
+
+[Telegram](https://t.me/Gray_WH) · [VK](https://vk.com/whynot_46)
+
+## Чем занимаюсь
+
+- **LLM-агенты:** мультиагентные пайплайны, собственные MCP-серверы, память и контекст-инжиниринг, human-in-the-loop, guardrails и sandbox, интеграции с корпоративными системами (CRM, трекеры, CMS, GitLab).
+- **RAG:** парсинг документов и OCR, hybrid search с reranking, query rewriting (multi-query, HyDE), GraphRAG, оценка качества ответов.
+- **Инференс:** self-hosted LLM на vLLM, оптимизация latency и throughput.
+- **Мультимодальность и речь:** VLM, Whisper, TTS, voice-агенты, генерация изображений.
+- **Качество и безопасность:** offline и online eval, A/B-тесты, red teaming, PII-маскирование.
+- **Computer Vision:** детекция и сегментация на реальных данных: сельское хозяйство, промышленный контроль, видеоаналитика, OCR документов.
+- **Руководство разработкой:** архитектура, ревью, менторство, постановка задач команде.
+
+## Стек
+
+| Направление | Технологии |
+|---|---|
+| LLM / Agents | LangChain, LangGraph, LlamaIndex, собственные оркестраторы, мультиагентные системы, tool calling, structured output, разработка MCP-серверов, память агентов, human-in-the-loop, guardrails / sandbox, prompt engineering, LLM-as-judge, DeepEval, promptfoo |
+| RAG / Search | парсинг документов / OCR, embeddings, reranking, hybrid search (BM25 + dense), query rewriting / multi-query / HyDE, GraphRAG, chunking-стратегии, pgvector, Qdrant, оценка качества (RAGAS, golden sets) |
+| Инференс / Serving | vLLM, SGLang, TGI, llama.cpp, Ollama, квантизация (AWQ / GPTQ / FP8), tensor / pipeline parallelism, Hugging Face Transformers, GPU-инфраструктура |
+| Fine-tuning | PEFT (LoRA / QLoRA), дообучение эмбеддингов и реранкеров, обучение CV-моделей, подготовка и разметка датасетов |
+| ML / NLP | рекомендательные системы, классический NLP |
+| ML / CV | PyTorch, Ultralytics (YOLO), OpenCV, TensorFlow / Keras, детекция, сегментация, OCR, видеоаналитика, промышленный контроль, агросектор, инференс на edge |
+| Backend | Python, FastAPI, asyncio, Pydantic, SQLAlchemy, Alembic, aiogram, WebSocket / SSE-стриминг, gRPC, GraphQL |
+| UI / прототипы | Streamlit, Gradio, Telegram-боты и Mini Apps, Kivy, Tkinter, PyWebIO |
+| Брокеры / очереди | RabbitMQ, Redis (Streams, Pub/Sub) |
+| Данные | PostgreSQL, MongoDB, Neo4j, Redis, SQLite, MinIO / S3, Pandas, NumPy, Matplotlib, Label Studio, CVAT |
+| MLOps / Observability | Docker, docker-compose, GitLab CI/CD, Grafana, Prometheus, Loki, Langfuse и LangSmith (трейсинг и оценка LLM) |
+| Мультимодальность / речь | VLM (изображения и видео + LLM), ASR / STT (Whisper), TTS, voice-агенты, генерация изображений (Diffusion) |
+| Eval / Safety | offline eval на golden-сетах, online eval и A/B-тесты, prompt injection / red teaming, PII-маскирование, модерация |
+| Инфраструктура | Linux, Git, Nginx, Traefik, Keycloak (SSO) |
+| Интеграции | Bitrix24 (REST, бизнес-процессы), Jira, Confluence, GitLab, Strapi (headless CMS), Avito |
+| Embedded / Edge | Arduino, ESP32, Raspberry Pi, Jetson |
+
+## Статистика
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Whynot46&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whynot46&layout=compact&theme=dark&hide_border=true" alt="Top languages"/>
 </p>
-
-<h2 align="center">🛠️ Стек</h2>
-<table align="center">
-<tr><th>LLM / Agents</th><th>ML / CV</th><th>Backend / боты</th><th>Интерфейсы</th><th>Данные</th><th>БД и API</th></tr>
-<tr><td>vLLM</td><td>OpenCV</td><td>FastAPI</td><td>Kivy / KivyMD</td><td>Pandas</td><td>PostgreSQL</td></tr>
-<tr><td>RAG</td><td>Ultralytics</td><td>Aiogram</td><td>Tkinter / CustomTkinter</td><td>NumPy</td><td>SQLite</td></tr>
-<tr><td>Мультиагентные системы</td><td>Keras</td><td>pyTelegramBotAPI</td><td>PyWebIO</td><td>Matplotlib</td><td>Google API</td></tr>
-<tr><td>Asyncio</td><td>TensorFlow</td><td>Spring Boot (Java)</td><td></td><td>openpyxl</td><td></td></tr>
-</table>
-
-<h2 align="center">🧰 Языки и инструменты</h2>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="60" height="60"/>
-</p>
-
-<h2 align="center">🏆 Достижения</h2>
-<p align="center">
-  🥇 Победитель хакатона RinHack 2024<br>
-  🎖️ Победитель конкурса «Студенческий стартап», грант 1 000 000 ₽<br>
-  🏅 Победитель ASU-CTF 2022
-</p>
-
-<h2 align="center">🔥 Статистика</h2>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Whynot46&locale=en&mode=daily&theme=dark&border_radius=5&order=3" height="220" alt="streak graph"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Whynot46&show_icons=true&theme=dark" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whynot46&layout=compact&theme=dark" alt="top langs"/>
-</div>
