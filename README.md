@@ -1,45 +1,60 @@
-# Алексей Пахалев
+<div align="center">
 
-**AI/ML Engineer · Head of Development, Routeam Group**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header&text=Алексей%20Пахалев&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Head%20of%20Development&descAlignY=62&descSize=16" alt="header"/>
 
-Проектирую и довожу до продакшена AI/ML-системы end-to-end: от постановки задачи и данных до инференса и мониторинга. Основной фокус — LLM-приложения, мультиагентные системы, RAG и self-hosted инференс. Ранее — прикладное компьютерное зрение.
+AI/ML-системы end-to-end: LLM, агенты, RAG, инференс, Computer Vision.
 
-[Telegram](https://t.me/Gray_WH) · [VK](https://vk.com/whynot_46)
+[![Telegram](https://img.shields.io/badge/Telegram-Gray__WH-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Gray_WH)
+[![VK](https://img.shields.io/badge/VK-whynot__46-0077FF?style=flat-square&logo=vk&logoColor=white)](https://vk.com/whynot_46)
 
-## Чем занимаюсь
+</div>
 
-- **LLM-агенты:** мультиагентные пайплайны, собственные MCP-серверы, память и контекст-инжиниринг, human-in-the-loop, guardrails и sandbox, интеграции с корпоративными системами (CRM, трекеры, CMS, GitLab).
-- **RAG:** парсинг документов и OCR, hybrid search с reranking, query rewriting (multi-query, HyDE), GraphRAG, оценка качества ответов.
-- **Инференс:** self-hosted LLM на vLLM, оптимизация latency и throughput.
-- **Мультимодальность и речь:** VLM, Whisper, TTS, voice-агенты, генерация изображений.
-- **Качество и безопасность:** offline и online eval, A/B-тесты, red teaming, PII-маскирование.
-- **Computer Vision:** детекция и сегментация на реальных данных: сельское хозяйство, промышленный контроль, видеоаналитика, OCR документов.
-- **Руководство разработкой:** архитектура, ревью, менторство, постановка задач команде.
+## Фокус
+
+| Направление | Что делаю |
+|---|---|
+| 🤖 **LLM-агенты** | мультиагентные системы, MCP-серверы, память, human-in-the-loop, guardrails |
+| 🔎 **RAG** | OCR и парсинг, hybrid search + reranking, HyDE, GraphRAG |
+| ⚡ **Инференс** | self-hosted LLM, vLLM, квантизация, multi-GPU |
+| 👁 **Computer Vision** | агро, промконтроль, видеоаналитика, OCR |
+| 🎙 **Мультимодальность** | VLM, Whisper, TTS, voice-агенты, Diffusion |
+| 🛡 **Качество** | offline/online eval, A/B, red teaming, PII |
 
 ## Стек
 
-| Направление | Технологии |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,tensorflow,opencv,postgres,mongodb,neo4j,redis,rabbitmq,docker,nginx,linux,git,gitlab,grafana,prometheus,raspberrypi,arduino&perline=10" alt="stack"/>
+</p>
+
+| LLM и RAG | Инференс и обучение |
 |---|---|
-| LLM / Agents | LangChain, LangGraph, LlamaIndex, собственные оркестраторы, мультиагентные системы, tool calling, structured output, разработка MCP-серверов, память агентов, human-in-the-loop, guardrails / sandbox, prompt engineering, LLM-as-judge, DeepEval, promptfoo |
-| RAG / Search | парсинг документов / OCR, embeddings, reranking, hybrid search (BM25 + dense), query rewriting / multi-query / HyDE, GraphRAG, chunking-стратегии, pgvector, Qdrant, оценка качества (RAGAS, golden sets) |
-| Инференс / Serving | vLLM, SGLang, TGI, llama.cpp, Ollama, квантизация (AWQ / GPTQ / FP8), tensor / pipeline parallelism, Hugging Face Transformers, GPU-инфраструктура |
-| Fine-tuning | PEFT (LoRA / QLoRA), дообучение эмбеддингов и реранкеров, обучение CV-моделей, подготовка и разметка датасетов |
-| ML / NLP | рекомендательные системы, классический NLP |
-| ML / CV | PyTorch, Ultralytics (YOLO), OpenCV, TensorFlow / Keras, детекция, сегментация, OCR, видеоаналитика, промышленный контроль, агросектор, инференс на edge |
-| Backend | Python, FastAPI, asyncio, Pydantic, SQLAlchemy, Alembic, aiogram, WebSocket / SSE-стриминг, gRPC, GraphQL |
-| UI / прототипы | Streamlit, Gradio, Telegram-боты и Mini Apps, Kivy, Tkinter, PyWebIO |
-| Брокеры / очереди | RabbitMQ, Redis (Streams, Pub/Sub) |
-| Данные | PostgreSQL, MongoDB, Neo4j, Redis, SQLite, MinIO / S3, Pandas, NumPy, Matplotlib, Label Studio, CVAT |
-| MLOps / Observability | Docker, docker-compose, GitLab CI/CD, Grafana, Prometheus, Loki, Langfuse и LangSmith (трейсинг и оценка LLM) |
-| Мультимодальность / речь | VLM (изображения и видео + LLM), ASR / STT (Whisper), TTS, voice-агенты, генерация изображений (Diffusion) |
-| Eval / Safety | offline eval на golden-сетах, online eval и A/B-тесты, prompt injection / red teaming, PII-маскирование, модерация |
-| Инфраструктура | Linux, Git, Nginx, Traefik, Keycloak (SSO) |
-| Интеграции | Bitrix24 (REST, бизнес-процессы), Jira, Confluence, GitLab, Strapi (headless CMS), Avito |
-| Embedded / Edge | Arduino, ESP32, Raspberry Pi, Jetson |
+| LangChain, LangGraph, LlamaIndex | vLLM, SGLang, TGI, llama.cpp, Ollama |
+| Qdrant, pgvector, Neo4j | AWQ / GPTQ / FP8, tensor / pipeline parallelism |
+| RAGAS, DeepEval, promptfoo | PEFT (LoRA / QLoRA), эмбеддинги и реранкеры |
+| Langfuse, LangSmith | PyTorch, Ultralytics, TensorFlow / Keras |
+
+| Backend и данные | Инфраструктура и интеграции |
+|---|---|
+| FastAPI, asyncio, Pydantic, SQLAlchemy | Docker, GitLab CI/CD, Nginx, Traefik |
+| gRPC, GraphQL, WebSocket / SSE | Grafana, Prometheus, Loki, Keycloak |
+| RabbitMQ, Redis Streams | Bitrix24, Jira, Confluence, Strapi, Avito |
+| PostgreSQL, MongoDB, MinIO / S3 | Label Studio, CVAT |
+
+| ML и прототипы | Edge |
+|---|---|
+| Рекомендательные системы, классический NLP | Raspberry Pi, Jetson |
+| Streamlit, Gradio, aiogram, Telegram Mini Apps | Arduino, ESP32 |
 
 ## Статистика
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Whynot46&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whynot46&layout=compact&theme=dark&hide_border=true" alt="Top languages"/>
-</p>
+<table align="center">
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=Whynot46&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whynot46&layout=compact&theme=tokyonight&hide_border=true" alt="langs"/></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="https://streak-stats.demolab.com?user=Whynot46&theme=tokyonight&hide_border=true&mode=weekly" alt="streak"/></td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=80&section=footer" width="100%" alt="footer"/>
